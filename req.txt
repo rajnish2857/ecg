@@ -4,5 +4,5 @@ pandas
 scipy
 opencv-python
 pillow
-PyWavelets>=1.7.0
+PyWavelets
 matplotlib
